@@ -1,0 +1,11 @@
+stop_id,stop_name,area_type,city,latitude,longitude
+S001,Ananthapur Bus Stand,Bus Stand,Ananthapur,14.6819,77.6006
+S002,Railway Station,Station,Ananthapur,14.6745,77.5942
+S003,Market Area,Market,Ananthapur,14.6768,77.5963
+S004,University,University,Ananthapur,14.6921,77.6103
+S005,City Center,City Center,Ananthapur,14.6801,77.6015
+S006,RTC Colony,Residential,Ananthapur,14.6863,77.6031
+S007,Industrial Area,Industrial,Ananthapur,14.6624,77.5819
+S008,Old Town,Old Town,Ananthapur,14.6712,77.5987
+S009,Market Road,Market,Ananthapur,14.6808,77.6021
+S010,University Road,University,Ananthapur,14.6954,77.6128

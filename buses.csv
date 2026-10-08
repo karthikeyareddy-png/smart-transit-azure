@@ -1,0 +1,11 @@
+bus_id,route_id,current_area,destination,speed_kmph,passengers,capacity,eta,status
+BUS-101,101,Ananthapur Bus Stand,Railway Station,38,32,50,6 min,On Time
+BUS-102,102,Railway Station,Market Area,22,47,50,12 min,Delayed
+BUS-103,103,University,City Center,41,28,60,5 min,On Time
+BUS-104,104,Bus Stand,Industrial Area,25,49,50,15 min,Crowded
+BUS-105,101,RTC Colony,Ananthapur Bus Stand,45,21,50,10 min,On Time
+BUS-106,102,Old Town,Market Area,29,35,60,9 min,Delayed
+BUS-107,103,University Road,City Center,42,18,50,4 min,On Time
+BUS-108,104,Market Area,Industrial Area,20,55,60,13 min,Crowded
+BUS-109,101,Market Road,RTC Colony,39,26,50,8 min,On Time
+BUS-110,102,City Center,Market Area,36,31,60,7 min,On Time
